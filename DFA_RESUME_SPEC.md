@@ -24,10 +24,20 @@ Reconciled on 2026-10-14 from the established September 2026 instructions. This 
 - Distinguish architecture/design, implementation, recommendations and approval authority accurately.
 - Tailor to the opportunity using supported experience.
 - Prioritize concrete achievements and business value; remove repetition and fluff.
-- Include certification codes and full names where applicable, with accurate earned dates and status.
-- Do not present expired credentials as current.
+- Include certification codes and full names where applicable, using supported dates.
+- Do not claim that a credential is current without verification.
 - Resolve uncertain claims or omit them from the final résumé. Do not leave “approximately,” “provisional” or “to be confirmed” in a final résumé.
 - Keep related résumé, matrix and reference documents consistent; clearly identify superseded versions.
+
+## Certification presentation
+
+- Group all certifications together in one section; do not divide them into past and current credentials.
+- Place the DAMA Certified Data Management Professional (CDMP) certification first.
+- Show one date only for each certification, without a description or label such as “earned,” “issued” or “exam passed.”
+- Remove all expiration dates and expiry labels from the résumé.
+- Use the documented earned or completion date. If only an exam-pass date is supported, retain that date without inventing an issuance date.
+- Use a neutral section heading, such as “Certification history,” without implying that every credential is currently active.
+- Keep study toward an unearned qualification in professional development.
 
 ## Deliverables and filenames
 
@@ -60,3 +70,4 @@ Reconciled on 2026-10-14 from the established September 2026 instructions. This 
 - September 17–28, 2026: the established design was refined to Noto Sans, orange #E06E00, charcoal text, a centred header, one column and no tables.
 - September 28, 2026: the user explicitly corrected the black-and-white interpretation: “Black and white? Don't fuck around isn't black-and-white.”
 - October 14, 2026: these requirements were recovered and reconciled. Generic black-and-white preferences must not be used to erase the DFA orange styling.
+- October 14, 2026: the user specified a single certification section, DAMA CDMP first, one unlabelled date per credential and no expiration dates.
